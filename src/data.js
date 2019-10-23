@@ -13,7 +13,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Sccoer Shoes",
+    title: "Soccoer Shoes",
     img: "img/shoes2.png",
     price: 25,
     company: "NIKE",
