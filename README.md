@@ -4,4 +4,4 @@
 
 Link is provided below
 
-** [GitHub](https://react-shoes-store.netlify.com/) **
+** [https://react-shoes-store.netlify.com/](https://react-shoes-store.netlify.com/) **
