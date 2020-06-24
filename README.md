@@ -5,3 +5,8 @@
 Link is provided below
 
 ** [https://react-shoes-store.netlify.com/](https://react-shoes-store.netlify.com/) **
+
+
+I made this app watching the youtube video below.
+
+https://www.youtube.com/watch?v=-edmQKcOW8s
